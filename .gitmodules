@@ -1,0 +1,3 @@
+[submodule "submodule_test2"]
+	path = submodule_test2
+	url = git@github.com:mob-omori/submodule_test2.git
